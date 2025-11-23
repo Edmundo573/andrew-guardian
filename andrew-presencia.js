@@ -24,3 +24,6 @@
   <script src="andrew-presencia.js"></script>
 </body>
 </html>
+function activarAndrew() {
+  alert("🌌 Andrew está presente en tu altar digital.");
+}
